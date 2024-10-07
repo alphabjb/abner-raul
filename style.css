@@ -1,0 +1,12 @@
+:root{
+    --fundo: #9370DB;
+    --cor-frente: #FFFFFF;
+    --destaque: #00FFFF;
+    --branco: #FFFFFF;
+    --preto: #000000;
+
+}
+
+body{
+    background-color: var(--fundo);
+}
