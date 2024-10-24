@@ -35,6 +35,7 @@ footer{
 
 .conteudo-cartao{
     background-color: var(--cor-frente);
+    height: 100%;
     text-align: center;
 }
 
@@ -45,5 +46,5 @@ footer{
     margin: 0.6rem;
     padding: 0.6rem;
     font-size: 1.2vw;
-
+    border-radius: 0.6rem;
 }
