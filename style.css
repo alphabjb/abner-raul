@@ -14,7 +14,7 @@ body{
 footer{
     position: fixed;
     bottom: 0;
-    bacground-color:var(--preto);
+    background-color:var(--preto);
     color:var(--branco); 
     width: 100%;
     text-align: center;
