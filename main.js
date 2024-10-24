@@ -12,7 +12,7 @@ function criaCartao (categoria, pergunta, resposta){
      </div>
     </div>
   `
-  let repostaEstaVisivel = false;
+  let respostaEstaVisivel = false;
 
   function viracartao(){
     respostaEstaVisivel = !respostaEstaVisivel;
