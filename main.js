@@ -12,5 +12,8 @@ function criaCartao (categoria, pergunta, resposta){
      </div>
     </div>
   `
-  container.appendChild(cartao);
+  let repostaVisivel
+  
+  
+    container.appendChild(cartao);
 }
