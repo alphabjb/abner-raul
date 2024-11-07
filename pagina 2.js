@@ -22,6 +22,6 @@ function criaCartao (categoria, pergunta, resposta){
       resposta.style.display ='block'
     }
     else{
-      resposta.style ='none'
+      resposta.style.display ='none'
     }
   }
