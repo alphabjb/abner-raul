@@ -1,32 +1,32 @@
 criaCartao(
-    'História - Getúlio Vargas',
-    'Em que ano Getúlio Vargas assumiu a presidência do Brasil pela primeira vez?',
-    '1930')
+  'História - Getúlio Vargas',
+   'Em que ano Getúlio Vargas assumiu a presidência do Brasil pela primeira vez?',
+   '1930')
     
-    criaCartao(
-    'História - Getúlio Vargas',
-    'Qual o nome do regime ditatorial estabelecido por Vargas em 1937?',
-    'Estado Novo')
+criaCartao(
+  'História - Getúlio Vargas',
+  'Qual o nome do regime ditatorial estabelecido por Vargas em 1937?',
+  'Estado Novo')
     
-    criaCartao(
-    'História - Getúlio Vargas',
-    'Qual foi a política trabalhista criada durante o governo Vargas que beneficia trabalhadores até hoje?',
-    'CLT - Consolidação das Leis do Trabalho')
+ criaCartao(
+  'História - Getúlio Vargas',
+  'Qual foi a política trabalhista criada durante o governo Vargas que beneficia trabalhadores até hoje?',
+  'CLT - Consolidação das Leis do Trabalho')
     
-    criaCartao(
-    'História - Getúlio Vargas',
-    'Como Getúlio Vargas voltou ao poder em 1951?',
-    'Através de eleições diretas')
+  criaCartao(
+  'História - Getúlio Vargas',
+  'Como Getúlio Vargas voltou ao poder em 1951?',
+  'Através de eleições diretas')
     
-    criaCartao(
-    'História - Getúlio Vargas',
-    'Qual foi a principal motivação para o suicídio de Getúlio Vargas em 1954?',
-    'Pressão política e crise militar')
+  criaCartao(
+  'História - Getúlio Vargas',
+  'Qual foi a principal motivação para o suicídio de Getúlio Vargas em 1954?',
+  'Pressão política e crise militar')
     
-    criaCartao(
-    'Biologia - Gregor Mendel',
-    'O que Gregor Mendel utilizou como objeto de estudo para formular as leis da hereditariedade?',
-    'Plantas de ervilha')
+  criaCartao(
+  'Biologia - Gregor Mendel',
+  'O que Gregor Mendel utilizou como objeto de estudo para formular as leis da hereditariedade?',
+  'Plantas de ervilha')
     
     criaCartao(
     'Biologia - Gregor Mendel',

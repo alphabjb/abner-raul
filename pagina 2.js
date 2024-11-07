@@ -15,14 +15,13 @@ function criaCartao (categoria, pergunta, resposta){
    
       container.appendChild(cartao);
   }
-  function mostraresposta(card:any): void
 
   function mostraresposta (card){
     const resposta = card.querySelector('.resposta-cartao');
-    if(resposta.style.display==='none'){
-      resposta.style.display='block'
+    if(resposta.style.display ==='none'){
+      resposta.style.display ='block'
     }
     else{
-      resposta.style='none'
+      resposta.style ='none'
     }
   }
