@@ -4,6 +4,7 @@
     --destaque: #00FFFF;
     --branco: #FFFFFF;
     --preto: #000000;
+    --cor-verso: #e60f0f;
 
 }
 
@@ -47,7 +48,7 @@ footer{
 }
 
 .resposta-cartao{
-    background-color: var(--preto);
+    background-color: var(--cor-verso);
     padding: 40px;
     display: none;
 }
